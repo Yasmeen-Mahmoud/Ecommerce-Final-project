@@ -1,0 +1,274 @@
+ [
+        {
+          "id": 1,
+          "name": "Classic White T-Shirt",
+          "category": "T-Shirts",
+          "description": "A comfortable, classic white T-shirt made from 100% cotton.",
+          "price": 15.99,
+          "stock": 50,
+          "images": ["assets/img/New-folder/product-6-1.jpg","assets/img/New-folder/product-6-2.jpg"],
+          "sizes": ["S", "M", "L", "XL"],
+          "colors": ["White"],
+          "rating": 4.5,
+          "reviews": []
+        },
+        {
+          "id": 2,
+          "name": "Red Hoodie",
+          "category": "Hoodies",
+          "description": "Warm and cozy hoodie, ideal for chilly days. Made from a soft cotton blend.",
+          "price": 35.99,
+          "stock": 40,
+          "images": ["assets/img/details-1.png","assets/img/details-2.png","assets/img/details-3.png","assets/img/details-4.png"],
+          "sizes": ["M", "L", "XL"],
+          "colors": ["Red", "Black"],
+          "rating": 4.8,
+          "reviews": []
+        },
+        {
+          "id": 3,
+          "name": "Floral Summer Dress",
+          "category": "Dresses",
+          "description": "A light and breezy floral dress, perfect for summer days.",
+          "price": 29.99,
+          "stock": 25,
+          "images": ["assets/img/New-folder/product-7-2.jpg" ,"assets/img/New-folder/product-7-1.jpg"],
+          "sizes": ["S", "M", "L"],
+          "colors": ["White", "Pink"],
+          "rating": 4.3,
+          "reviews": []
+        },
+        {
+          "id": 4,
+          "name": "Classic White & Black T-Shirt",
+          "category": "T-Shirts",
+          "description": "A comfortable, classic white T-shirt made from 100% cotton.",
+          "price": 15.99,
+          "stock": 50,
+          "images": ["assets/img/product-3.png"],
+          "sizes": ["S", "M", "L", "XL"],
+          "colors": ["White"],
+          "rating": 4.5,
+          "reviews": []
+        },
+        
+       
+        
+        {
+          "id": 5,
+          "name": "Running Shoes",
+          "category": "Shoes",
+          "description": "Durable and lightweight running shoes for all-day comfort.",
+          "price": 65.00,
+          "stock": 70,
+          "images": ["assets/img/New-folder/product-3-1.jpg","assets/img/New-folder/product-3-2.jpg"],
+          "sizes": ["7", "8", "9", "10", "11"],
+          "colors": ["Blue", "Grey"],
+          "rating": 4.7,
+          "reviews": []
+        },
+        {
+          "id": 6,
+          "name": " Hoodie",
+          "category": "Hoodies",
+          "description": "Warm and cozy hoodie, ideal for chilly days. Made from a soft cotton blend.",
+          "price": 35.99,
+          "stock": 40,
+          "images": ["assets/img/product-2.png"],
+          "sizes": ["M", "L", "XL"],
+          "colors": ["Red", "Black"],
+          "rating": 4.8,
+          "reviews": []
+        },
+       
+       
+        
+        {
+          "id": 7,
+          "name": "Cap",
+          "category": "Accessories",
+          "description": "Adjustable baseball cap with a classic design.",
+          "price": 12.99,
+          "stock": 80,
+          "images": ["assets/img/New-folder/product-5-2.jpg"],
+          "sizes": ["One Size"],
+          "colors": ["Black", "White", "Red"],
+          "rating": 4.4,
+          "reviews": []
+        },
+        {
+          "id": 8,
+          "name": "Button-Down Shirt",
+          "category": "Shirts",
+          "description": "Elegant button-down shirt, suitable for both formal and casual settings.",
+          "stock": 39.99,
+          "price": 25,
+          "images":["assets/img/New-folder/product-9-1.jpg","assets/img/New-folder/product-9-2.jpg"],
+          "sizes": ["M", "L", "XL"],
+          "colors": ["White", "Blue"],
+          "rating": 4.3,
+          "reviews": []
+        },
+        {
+          "id": 9,
+          "name": "bag",
+          "category": "bag",
+          "description": "Stay organized and connected on the go with our sleek laptop backpack, designed for the modern professional.",
+          "price": 15,
+          "stock": 30,
+          "images":["assets/img/New-folder/product-13-1.jpg"],
+          "sizes": ["M", "L", "XL"],
+          "colors": ["White", "Blue"],
+          "rating": 4.3,
+          "reviews": []
+        },
+       
+        {
+          "id": 10,
+          "name": "Yoga Pants",
+          "category": "Activewear",
+          "description": "Flexible and comfortable yoga pants, perfect for workouts.",
+          "price": 32.99,
+          "stock": 55,
+          "images": ["assets/img/New-folder/product-4-1.jpg","assets/img/New-folder/product-4-2.jpg"],
+          "sizes": ["S", "M", "L", "XL"],
+          "colors": ["Black", "Grey"],
+          "rating": 4.6,
+          "reviews": []
+        },
+        {
+          "id": 11,
+          "name": "bag",
+          "category": "bag",
+          "description": "Stay organized and connected on the go with our sleek laptop backpack, designed for the modern professional.",
+          "price": 15,
+          "stock": 30,
+          "images":["assets/img/New-folder/product-13-2.jpg"],
+          "sizes": ["M", "L", "XL"],
+          "colors": ["White", "Blue"],
+          "rating": 4.3,
+          "reviews": []
+        },
+        {
+          "id": 12,
+          "name": "Button-Down Shirt",
+          "category": "Shirts",
+          "description": "Elegant button-down shirt, suitable for both formal and casual settings.",
+          "price": 25,
+          "stock": 40,
+          "images":["assets/img/New-folder/product-1-1.jpg","assets/img/New-folder/product-1-2.jpg"],
+          "sizes": ["M", "L", "XL"],
+          "colors": ["White", "Blue"],
+          "rating": 4.3,
+          "reviews": []
+        },
+        {
+          "id": 13,
+          "name": "Button-Down Shirt",
+          "category": "Shirts",
+          "description": "Elegant button-down shirt, suitable for both formal and casual settings.",
+          "price": 20,
+          "stock": 40,
+          "images":["assets/img/New-folder/product-8-1.jpg","assets/img/New-folder/product-8-2.jpg"],
+          "sizes": ["M", "L", "XL"],
+          "colors": ["White", "Blue"],
+          "rating": 4.3,
+          "reviews": []
+        },
+        
+        {
+          "id": 14,
+          "name": "Winter Coat",
+          "category": "Coats",
+          "description": "Heavy-duty winter coat to keep you warm in freezing temperatures.",
+          "price": 80,
+          "stock": 120,
+          "images": ["assets/img/product-1.png"],
+          "sizes": ["M", "L", "XL", "XXL"],
+          "colors": ["Black", "Navy"],
+          "rating": 4.8,
+          "reviews": []
+        },
+        {
+          "id": 15,
+          "name": "Linen Pants",
+          "category": "Pants",
+          "description": "Breathable linen pants, perfect for a comfortable and relaxed style.",
+          "price": 29.99,
+          "stock": 35,
+          "images": ["assets/img/New-folder/product-11-1.jpg","assets/img/New-folder/product-11-2.jpg"],
+          "sizes": ["S", "M", "L", "XL"],
+          "colors": ["Beige", "White"],
+          "rating": 4.2,
+          "reviews": []
+        },
+        {
+          "id": 16,
+          "name": "Graphic Tee",
+          "category": "T-Shirts",
+          "description": "Trendy graphic tee with unique artwork.",
+          "price": 19.99,
+          "stock": 45,
+          "images": ["assets/img/New-folder/product-12-1.jpg","assets/img/New-folder/product-12-2.jpg"],
+          "sizes": ["S", "M", "L", "XL"],
+          "colors": ["Black", "White"],
+          "rating": 4.4,
+          "reviews": []
+        },
+        {
+          "id": 17,
+          "name": "Sport Jacket",
+          "category": "Jackets",
+          "description": "Lightweight and breathable sport jacket for outdoor activities.",
+          "price": 30,
+          "stock": 55.99,
+          "images": ["assets/img/product-5.png"],
+          "sizes": ["S", "M", "L", "XL"],
+          "colors": ["Grey", "Black"],
+          "rating": 4.3,
+          "reviews": []
+        },
+        {
+          "id": 18,
+          "name": "Tank Top",
+          "category": "Activewear",
+          "description": "Basic tank top, great for workouts or casual wear.",
+          "price": 10.99,
+          "stock": 70,
+          "images": ["assets/img/New-folder/product-7-1.jpg","assets/img/New-folder/product-7-2.jpg"],
+          "sizes": ["S", "M", "L", "XL"],
+          "colors": ["Black", "White", "Grey"],
+          "rating": 4.5,
+          "reviews": []
+        },
+       
+        {
+          "id": 19,
+          "name": "Puffer Vest",
+          "category": "Vests",
+          "description": "Warm puffer vest with a cozy fit, ideal for layering.",
+          "price": 34.99,
+          "stock": 60,
+          "images": ["assets/img/new-6.png"],
+          "sizes": ["M", "L", "XL"],
+          "colors": ["White", "Black"],
+          "rating": 4.5,
+          "reviews": []
+        },
+        {
+          "id": 20,
+          "name": "Puffer Vest",
+          "category": "Vests",
+          "description": "Warm puffer vest with a cozy fit, ideal for layering.",
+          "price": 34.99,
+          "stock": 50,
+          "images": ["assets/img/new-3.png"],
+          "sizes": ["M", "L", "XL"],
+          "colors": ["White", "Black"],
+          "rating": 4.5,
+          "reviews": []
+        }
+      ]
+    
+    
+  

@@ -1,0 +1,91 @@
+ [
+    {
+        "id": 2,
+        "name": "Blue Denim Jeans",
+        "category": "Jeans",
+        "description": "Stylish blue denim jeans with a slim fit. Perfect for casual wear.",
+        "price": 45.99,
+        "stock": 30,
+        "images": ["https://example.com/images/jeans-blue.jpg"],
+        "sizes": ["S", "M", "L", "XL"],
+        "colors": ["Blue"],
+        "rating": 4.2,
+        "reviews": []
+      },
+    {
+        "id": 4,
+        "name": "Black Leather Jacket",
+        "category": "Jackets",
+        "description": "A classic black leather jacket with a modern fit. Perfect for any occasion.",
+        "price": 89.99,
+        "stock": 20,
+        "images": ["https://example.com/images/jacket-leather.jpg"],
+        "sizes": ["M", "L", "XL"],
+        "colors": ["Black"],
+        "rating": 4.6,
+        "reviews": []
+      },
+    {
+        "id": 8,
+        "name": "Casual Shorts",
+        "category": "Shorts",
+        "description": "Lightweight shorts for everyday wear, with a relaxed fit.",
+        "price": 22.99,
+        "stock": 45,
+        "images": ["https://example.com/images/shorts-casual.jpg"],
+        "sizes": ["S", "M", "L", "XL"],
+        "colors": ["Khaki", "Navy"],
+        "rating": 4.0,
+        "reviews": []
+      },
+      {
+        "id": 9,
+        "name": "Striped Polo Shirt",
+        "category": "Polos",
+        "description": "A stylish striped polo shirt, perfect for a casual day out.",
+        "price": 28.99,
+        "stock": 35,
+        "images": ["https://example.com/images/polo-striped.jpg"],
+        "sizes": ["S", "M", "L", "XL"],
+        "colors": ["Blue", "White"],
+        "rating": 4.1,
+        "reviews": []
+      },
+ {
+          "id": 10,
+          "name": "Wool Scarf",
+          "category": "Accessories",
+          "description": "Warm wool scarf to keep you cozy during winter.",
+          "price": 18.50,
+          "stock": 70,
+          "images": ["https://example.com/images/scarf-wool.jpg"],
+          "sizes": ["One Size"],
+          "colors": ["Grey", "Black", "Red"],
+          "rating": 4.5,
+          "reviews": []
+        },{
+            "id": 13,
+            "name": "Black Blazer",
+            "category": "Blazers",
+            "description": "A sharp black blazer to complete your professional look.",
+            "price": 75.00,
+            "stock": 20,
+            "images": ["https://example.com/images/blazer-black.jpg"],
+            "sizes": ["M", "L", "XL"],
+            "colors": ["Black"],
+            "rating": 4.7,
+            "reviews": []
+          }, {
+            "id": 19,
+            "name": "Pleated Skirt",
+            "category": "Skirts",
+            "description": "Stylish pleated skirt with a flattering fit.",
+            "price": 25.99,
+            "stock": 20,
+            "images": ["https://example.com/images/skirt-pleated.jpg"],
+            "sizes": ["S", "M", "L"],
+            "colors": ["Black", "Navy"],
+            "rating": 4.4,
+            "reviews": []
+          }
+    ]
